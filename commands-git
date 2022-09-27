@@ -2,3 +2,4 @@ git clone <lien du repo>
  git add <nom du fichier>
  git commit -m <Commentaires> 
 git push origin main
+git pull pour récupérer le fichier à partir du repo
