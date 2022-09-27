@@ -1,5 +1,7 @@
-git clone <lien du repo>
+git clone <lien du repo> pour cloner notre repo
  git add <nom du fichier>
  git commit -m <Commentaires> 
-git push origin main
+ git push origin main
 git pull pour récupérer le fichier à partir du repo
+git branch <Nom_de_la_branche> pour créer la branche
+git checkout <Nom_de_la_branche> pour changer de branche
